@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Poppins:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&family=Merriweather:wght@400;700&display=swap');
+@import "tailwindcss";
+
+/* For the header */
+.font-minecraft {
+    font-family: 'Merriweather', cursive;
+  }
+  
+  /* For the body text */
+  .font-body {
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .font-navbar {
+    font-family: 'Rubik', sans-serif;
+  }
+  
