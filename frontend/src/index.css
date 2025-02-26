@@ -17,3 +17,14 @@
     font-family: 'Rubik', sans-serif;
   }
   
+
+/* Minecraft Wooden Plank Texture */
+.bg-minecraft {
+  background-image: repeating-linear-gradient(
+    to right,
+    #e0b985 0%,
+    #d9a866 10%,
+    #e0b985 20%
+  );
+  background-size: 20px 100%;
+}
